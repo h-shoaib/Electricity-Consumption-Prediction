@@ -1,1 +1,1 @@
-Gradio app for prediction of electricity consumption, made using data mining algorithms.
+Gradio app for prediction of electricity consumption by inputting weather data, made using data mining algorithms.
